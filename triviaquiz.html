@@ -7,8 +7,8 @@
         
 i = 1 // counter variable
 	var score=0
-	var goodaudio = new Audio('C:\Users\LILIAN\Desktop\cpt comp. science\images\correct.mp3');
-	var badaudio = new Audio('C:\Users\LILIAN\Desktop\cpt comp. science\images\wrong.mp3');
+	var goodaudio = new Audio('source src="C:\Users\LILIAN\Desktop\CPT_ilodigweLilian\web-public-ilodigweLilian\CPT_ilodigweLilian\audio\correct.mp3');
+	var badaudio = new Audio('source src="C:\Users\LILIAN\Desktop\CPT_ilodigweLilian\web-public-ilodigweLilian\CPT_ilodigweLilian\audio\wrong.mp3');
 
 function main(){
 			if (i==1){ 
@@ -134,7 +134,7 @@ document.view.go.focus();  // puts the focus on the "Next Question >" button so 
 </script>
 </head>
 <h1>Trivia Quiz!</h1>
-<body LINK="F7DD5E" VLINK="F7DD5E" ALINK="F7DD5E" onLoad="main()">
+<body LINK="F7DD5E" VLINK="F7DD5E" ALINK="F7DD5E" onLoad="main() id="triv">
 
 <FORM name="view">  
 	Question: &nbsp;<input type="text" name="qnum" size="2">&nbsp;&nbsp;<input type="button" name="go" value="Next Question >" onClick=main()>
