@@ -16,14 +16,14 @@ margin:0
 }
 
 #Q1 {
-background-image: url("images/Q1.jpg");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q1.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
 background-position: left;
 }
 #Q2 {
-background-image: url("images/Q2.jpg");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q2.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -31,7 +31,7 @@ background-position: left;
 }
 
 #Q3 {
-background-image: url("images/Q3.jpeg");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q3.jpeg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -39,7 +39,7 @@ background-position: left;
 }
 
 #Q4 {
-background-image: url("images/Q4.jpg");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q4.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -47,7 +47,7 @@ background-position: left:
 }
 
 #Q5 {
-background-image: url("images/Q5.jpg");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q5.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -55,7 +55,7 @@ background-position: left:
 }
 
 #Q6 {
-background-image: url("images/Q6.png");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q6.png");
 background-size: cover;
 background-repeat: no-repeat;
 height: 80%;
@@ -63,7 +63,7 @@ background-position: left:
 }
 
 #Q7 {
-background-image: url("images/Q7.png");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q7.png");
 background-size: cover;
 background-repeat: no-repeat;
 height: 80%;
@@ -75,7 +75,7 @@ color: #00ffff;
 }
 
 #Q8 {
-background-image: url("images/Q8.jpg");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q8.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 80%;
@@ -83,7 +83,7 @@ background-position: left:
 }
 
 #Q9 {
-background-image: url("images/Q9.png");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q9.png");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -91,7 +91,7 @@ background-position: left:
 }
 
 #Q10 {
-background-image: url("images/Q10.jpg");
+background-image: url("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/Q10.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -99,14 +99,14 @@ background-position: left:
 }
 
 #triv {
-background-image: url ("images/trivia.jpg");
+background-image: url ("file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/trivia.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
 background-position: left:
 }
 
-#final { background-image: url('images/final.jpg');
+#final { background-image: url('file:///C:/Users/LILIAN/Desktop/CPT_ilodigweLilian/web-public-ilodigweLilian/CPT_ilodigweLilian/images/nicetry.jpg');
             		background-size: cover;
                     background-repeat: no-repeat;
             	}
