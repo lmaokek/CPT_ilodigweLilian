@@ -125,8 +125,12 @@ font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
         	#winner {
-	background-color: #e82222;
-    color: black;
+	background-image: url("http://cdn.wallpapersafari.com/31/6/JwR7Wu.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+background-position: left:
+    }
     }
 .pic{
     display: inline-block;
