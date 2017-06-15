@@ -177,6 +177,7 @@ background-position: left:
 	text-align:center;
 	text-shadow:1px 1px 29px #ded17c;
 }
+
 .button:hover {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00a3a3), color-stop(1, #00ffff) );
 	background:-moz-linear-gradient( center top, #00a3a3 5%, #00ffff 100% );
